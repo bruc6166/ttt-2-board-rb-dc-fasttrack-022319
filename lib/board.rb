@@ -1,4 +1,4 @@
 variable = board
-Array [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+row [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 board = array
 puts board
