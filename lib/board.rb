@@ -3,5 +3,6 @@ array = [
   [" ", " ", " ",],
   [" ", " ", " ",],
   [" ", " ", " ",] 
+  ]
 board = array
 puts board
