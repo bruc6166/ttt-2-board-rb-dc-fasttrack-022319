@@ -1,4 +1,7 @@
 variable = board
-array = [[" ", " ", " ",] 
+array = [
+  [" ", " ", " ",],
+  [" ", " ", " ",],
+  [" ", " ", " ",] 
 board = array
 puts board
