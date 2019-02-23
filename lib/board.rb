@@ -1,5 +1,5 @@
-local-variable = board
-array = [
+
+board = [
   [" ", " ", " "],
   [" ", " ", " "],
   [" ", " ", " "] 
