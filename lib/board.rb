@@ -5,4 +5,4 @@ board = [
   [" ", " ", " "] 
   ]
 
-puts board
+display_board(board)
