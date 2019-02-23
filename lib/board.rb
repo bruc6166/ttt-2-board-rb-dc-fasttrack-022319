@@ -1,4 +1,4 @@
-variable = board
+local-variable = board
 array = [
   [" ", " ", " "],
   [" ", " ", " "],
